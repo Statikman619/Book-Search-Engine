@@ -21,7 +21,8 @@ This Google book search engine is an application using a MERN stack, with a Reac
 
 ## Installation
 
-Run npm i in the command line and install all related dependencies.
+Clone this repository to receive all my files. Once you have my code make sure you are in the correct file directory.
+in the command line run "npm install" in the terminal to download all the needed dependencies.
 
 ## Usage
 
